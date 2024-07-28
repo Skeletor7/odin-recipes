@@ -1,25 +1,26 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    background-color: #f3835b;
+    color: #2e33f9;
 }
 
 a:hover {
-    color: yellow;
+    color: #d1d13e;
 }
 
 a {
-    color: rgb(13, 221, 141);
+    color: rgb(243 230 47);
     font-size: 20px;
     text-decoration: none;
 }
 
 h1 {
-    color: rgb(53, 139, 219);
+    color: #156bdd;
 }
 
 h2,
 h3,
 h4 {
-    color: blueviolet
+    color: #31ed04
 }
 
