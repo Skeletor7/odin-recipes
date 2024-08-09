@@ -1,7 +1,12 @@
+* {
+   box-sizing: border-box;
+  
+}
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #f3835b;
-    color: #2e33f9;
+
+    color: #101f2d;
 }
 
 a:hover {
@@ -24,3 +29,29 @@ h4 {
     color: #31ed04
 }
 
+.lasagna {
+    background-color: #31ed04;
+    padding: 25px;
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    border: 1px solid;
+}
+
+.scrambled-eggs {
+    background-color: #31ed04;
+    padding: 25px;
+    width: 200px;
+    text-align: center;
+    margin: -100px 10px 10px 250px;
+    border: 1px solid;
+}
+
+.pizza {
+    background-color: #31ed04;
+    padding: 25px;
+    width: 200px;
+    text-align: center;
+    margin: -100px 10px 10px 480px;
+    border: 1px solid;
+}
